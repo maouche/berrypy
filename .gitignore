@@ -8,5 +8,5 @@ code.txt
 main.py
 player.py
 url.txt
-/dist/videos
-/dist/temp
+dist/main/videos
+dist/main/temp
