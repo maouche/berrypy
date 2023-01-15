@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=true
+StartupNotify=true
+Name=script
+Exec=/home/pi/berrypy/berrybox.sh
+Categories=Application;
+Name[fr_FR]=berrybox.desktop

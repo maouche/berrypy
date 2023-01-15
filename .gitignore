@@ -1,12 +1,15 @@
 __pycache__
+
+# ads files
 /videos
 /temp
-/build
-advertisements.py
-api.py
-code.txt
-main.py
-player.py
-url.txt
 dist/main/videos
 dist/main/temp
+
+/build
+
+# py files
+advertisements.py
+api.py
+main.py
+player.py
